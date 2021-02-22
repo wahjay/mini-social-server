@@ -21,10 +21,11 @@
     "graphql": "^15.4.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.8",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "npm-force-resolutions": "0.0.3"
   },
   "resolutions": {
-    "fs-capacitor":"^6.2.0",
-    "graphql-upload": "^11.0.0"
+    "**/**/fs-capacitor": "^5.0.0",
+    "**/graphql-upload": "^9.0.0"
   }
 }
