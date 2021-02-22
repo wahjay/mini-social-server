@@ -7,7 +7,7 @@ const { MONGODB } = require('./config');
 
 const { checkAuth, validateToken } = require('./util/checkAuth');
 
-const GRAPHQL_PORT = 5000;
+const GRAPHQL_PORT = process.env.PORT || 5000;
 
 const pubsub = new PubSub();
 //pubsub.ee.setMaxListeners(72); // raise max listeners in event emitter
