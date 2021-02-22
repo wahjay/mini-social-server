@@ -2,6 +2,8 @@
 
 This is a mini social media that I build in my personal time for fun as well as learning.
 
+[Front-end repo link is here.](https://github.com/wahjay/mini-social)
+
 ![](/socialdemo.png)
 
 ## Tech Stack
