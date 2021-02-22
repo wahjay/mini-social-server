@@ -26,4 +26,4 @@ This is a mini social media that I build in my personal time for fun as well as 
 
 ## Things to fix next
  * Comment section currently doesn't have a gifpicker and a file uploader.
- * Add see more option on body texts.
+ * Add see more option for body texts.
