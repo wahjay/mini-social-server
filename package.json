@@ -22,5 +22,9 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.8",
     "nodemon": "^2.0.6"
+  },
+  "resolutions": {
+    "fs-capacitor":"^6.2.0",
+    "graphql-upload": "^11.0.0"
   }
 }
